@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Dima\source\repos\CardChecker\CardChecker\main.cpp(153,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dima\source\repos\CardChecker\CardChecker\main.cpp(147): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  CardChecker.vcxproj -> C:\Users\Dima\source\repos\CardChecker\x64\Debug\CardChecker.exe
